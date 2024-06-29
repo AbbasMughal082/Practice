@@ -1,0 +1,32 @@
+[
+    { 
+"events": [ 
+   {
+    "Name": "AFG vs SA",
+    "ImageUrl": "https://assets.crik.live/Events/t20-24.webp",
+    "EventName": "World Cup",
+    "LiveFrom": "2024-06-27T05:00:00",
+    "Start": "2024-06-27T00:00:00",
+    "End": "2024-06-27T10:59:00"
+      },
+      {
+    "Name": "IND vs SA",
+    "ImageUrl": "https://assets.crik.live/Events/t20-24.webp",
+    "EventName": "World Cup",
+    "LiveFrom": "2025-06-29T18:00:00",
+    "Start": "2024-06-29T00:00:00",
+    "End": "2025-06-30T06:59:00"
+      },
+      
+{
+    "Name": "A Sports",
+    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
+    "LiveFrom": "2024-06-02T11:15:00",
+    "Start": "2024-06-02T11:15:00",
+    "End": "2034-06-02T11:15:00",
+    "EventName": "A Sports"
+    }
+    ],
+    "title": "A Sports"
+    }
+    ]
