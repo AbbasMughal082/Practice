@@ -2,12 +2,12 @@
     { 
 "events": [ 
    {
-    "Name": "AFG vs SA",
+    "Name": "PTV sports Live",
     "ImageUrl": "https://assets.crik.live/Events/t20-24.webp",
-    "EventName": "World Cup",
-    "LiveFrom": "2024-06-27T05:00:00",
-    "Start": "2024-06-27T00:00:00",
-    "End": "2024-06-27T10:59:00"
+    "EventName": "PTV Sports",
+    "LiveFrom": "2023-08-06T05:00:00",
+    "Start": "2023-07-01T00:00:00",
+    "End": "2030-06-06T10:59:00"
       },
       {
     "Name": "pak vs India",
