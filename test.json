@@ -2,36 +2,31 @@
     { 
 "events": [ 
    {
-    "Name": "PTV sports Live",
+    "Name": "AFG vs SA",
+    "Url": "https://data.crik.live/Events/world-cup.json",
     "ImageUrl": "https://assets.crik.live/Events/t20-24.webp",
-    "EventName": "PTV Sports",
-    "LiveFrom": "2023-08-06T05:00:00",
-    "Start": "2023-07-01T00:00:00",
-    "End": "2030-07-06T06:59:00"
-      },
-      {
-    "Name": "pak vs India",
-    "ImageUrl": "https://assets.crik.live/Events/t20-24/1.webp",
     "EventName": "World Cup",
-    "LiveFrom": "2027-07-29T18:00:00",
-    "Start": "2026-06-29T19:30:00",
-    "End": "2026-07-30T06:30:51"
+    "LiveFrom": "2024-06-27T05:00:00",
+    "Start": "2024-06-27T00:00:00",
+    "End": "2024-06-27T10:59:00"
       },
       {
-    "Name": "PAK vs IND live Online",
+    "Name": "IND vs SA",
+    "Url": "https://data.crik.live/Events/world-cup.json",
     "ImageUrl": "https://assets.crik.live/Events/t20-24.webp",
-    "EventName": "IPL",
-    "LiveFrom": "2025-08-16T18:00:00",
-    "Start": "2024-07-17T00:00:00",
-    "End": "2024-07-08T06:59:00"
+    "EventName": "World Cup",
+    "LiveFrom": "2024-06-29T18:00:00",
+    "Start": "2024-06-29T00:00:00",
+    "End": "2024-06-30T06:59:00"
       },
-      
-    {
-    "Name": "pak vs England Live Online",
+
+{
+    "Name": "A Sports",
+    "Url": "https://data.crik.live/Channels/a-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
-    "LiveFrom": "2026-06-02T11:15:00",
-    "Start": "2024-06-02T19:15:00",
-    "End": "2024-06-03T04:15:00",
+    "LiveFrom": "2024-06-02T11:15:00",
+    "Start": "2024-06-02T11:15:00",
+    "End": "2034-06-02T11:15:00",
     "EventName": "A Sports"
     }
     ],
